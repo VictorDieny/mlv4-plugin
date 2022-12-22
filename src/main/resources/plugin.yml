@@ -1,0 +1,16 @@
+name: mlv4
+main: com.mlv4.mlv4.Plugin
+version: 1.0.1
+api-version: 1.15
+desciption: Minecraft plugin for mlv4 - Buttons and Battle Royale
+commands: 
+  button:
+    description: Pour lancer une partie de cache-cache boutons
+    permission: button.use
+  battleroyale:
+    description: Pour lancer une partie de battle royale
+    permission: battleroyale.use
+    aliases: [br]
+  goto:
+    description: TP à un endroit spécial de la map
+    permission: goto.use

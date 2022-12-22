@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mlv4.PluginTest" time="0.028" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\victo\Desktop\ROOT\Projets teckos\Plugin mlv4\mlv4\target\test-classes;c:\Users\victo\Desktop\ROOT\Projets teckos\Plugin mlv4\mlv4\target\classes;C:\Users\victo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\victo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\victo\.m2\repository\org\spigotmc\spigot-api\1.15.1-R0.1-SNAPSHOT\spigot-api-1.15.1-R0.1-SNAPSHOT.jar;C:\Users\victo\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\victo\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\victo\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\victo\.m2\repository\net\md-5\bungeecord-chat\1.13-SNAPSHOT\bungeecord-chat-1.13-SNAPSHOT.jar;C:\Users\victo\.m2\repository\org\yaml\snakeyaml\1.25\snakeyaml-1.25.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
+    <property name="sun.java.command" value="C:\Users\victo\AppData\Local\Temp\surefire10052153528630623624\surefirebooter11965159956780001576.jar C:\Users\victo\AppData\Local\Temp\surefire10052153528630623624 2022-12-19T14-44-57_678-jvmRun1 surefire4106463374503397714tmp surefire_010057430091347544546tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\victo\Desktop\ROOT\Projets teckos\Plugin mlv4\mlv4\target\test-classes;c:\Users\victo\Desktop\ROOT\Projets teckos\Plugin mlv4\mlv4\target\classes;C:\Users\victo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\victo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\victo\.m2\repository\org\spigotmc\spigot-api\1.15.1-R0.1-SNAPSHOT\spigot-api-1.15.1-R0.1-SNAPSHOT.jar;C:\Users\victo\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\victo\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\victo\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\victo\.m2\repository\net\md-5\bungeecord-chat\1.13-SNAPSHOT\bungeecord-chat-1.13-SNAPSHOT.jar;C:\Users\victo\.m2\repository\org\yaml\snakeyaml\1.25\snakeyaml-1.25.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\victo"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-19"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\victo\Desktop\ROOT\Projets teckos\Plugin mlv4\mlv4"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\victo\AppData\Local\Temp\surefire10052153528630623624\surefirebooter11965159956780001576.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="19.0.1+10-21"/>
+    <property name="user.name" value="victo"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\victo\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\victo\AppData\Local\Temp\"/>
+    <property name="java.version" value="19.0.1"/>
+    <property name="user.dir" value="c:\Users\victo\Desktop\ROOT\Projets teckos\Plugin mlv4\mlv4"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Maven\apache-maven-3.8.6\bin;;C:\Program Files (x86)\Touch Portal\plugins\adb\platform-tools;C:\Users\victo\AppData\Local\Microsoft\WindowsApps;C:\Users\victo\AppData\Roaming\npm;C:\Users\victo\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="19.0.1+10-21"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.mlv4.PluginTest" time="0.003"/>
+</testsuite>
